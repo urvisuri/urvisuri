@@ -30,7 +30,7 @@
 
 ### ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mysql,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mysql,mongodb,github,canva,render,postman" />
 </p>
 
 ---
