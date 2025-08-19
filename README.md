@@ -1,34 +1,52 @@
-## Hi there this is my profile 👋
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Urvi Suri</h1>
+<h3 align="center">🚀 Passionate Developer | Innovator | Lifelong Learner</h3>
 
-<h1 align="center">Hi 👋, I'm Urvi Suri</h1>
-<h3 align="center">Passionate Developer | Innovating through Code | Exploring New Technologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urvisuri&label=Profile%20views&color=0e75b6&style=flat" alt="urvisuri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvisuri" alt="urvisuri" /></a> </p>
-
-- 🌱 I’m currently learning **FLUTTER & Node JS**
-
-- 💬 Ask me about **C,C++,Python,DSA,HTML,CSS,JS**
-
-- 📫 How to reach me **suriurvi888@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/urvi suri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvi suri" height="30" width="40" /></a>
-<a href="https://instagram.com/urviisurii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urviisurii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/urvi suri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="urvi suri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/urvisuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="urvisuri" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@suriurvi888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@suriurvi888" height="30" width="40" /></a>
-<a href="https://discord.gg/urvix0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="urvix0x0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=urvisuri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=urvisuri&theme=algolia&margin-w=5&margin-h=5" alt="trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urvisuri&show_icons=true&locale=en&layout=compact" alt="urvisuri" /></p>
+### 🌱 About Me  
+- 🔭 Currently learning **Flutter & Node.js**  
+- 💡 Love working on **C, C++, Python, DSA, Web Development**  
+- 📫 Reach me at: **suriurvi888@gmail.com**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urvisuri&show_icons=true&locale=en" alt="urvisuri" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvisuri&" alt="urvisuri" /></p>
+### 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/urvi suri"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://instagram.com/urviisurii"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.hackerrank.com/urvi suri"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
+  <a href="https://www.leetcode.com/urvisuri"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+  <a href="https://www.hackerearth.com/@suriurvi888"><img src="https://skillicons.dev/icons?i=hackerearth" height="40"/></a>
+  <a href="https://discord.gg/urvix0x0"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</p>
 
+---
+
+### ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mysql,flutter,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvisuri&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urvisuri&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvisuri&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect and collaborate 🚀*  
